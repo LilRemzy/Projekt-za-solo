@@ -11,6 +11,10 @@ Zabavna stvar o meni:
 -Rad poslušam muziko
 
 
+predstavitev canva:
+
+https://www.canva.com/design/DAG4gVo8LBA/vEwh9wXJ8T24KrzNp2GV0g/edit?utm_content=DAG4gVo8LBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Značke
 ![GitHub stars](https://img.shields.io/github/stars/LilRemzy/Projekt-za-solo?style=social)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with%20❤️%20by-LilRemzy-blueviolet)
